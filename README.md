@@ -10,7 +10,7 @@ RETAIL DISCOUNT AND ANALYSIS
 ## TOOLS AND LIBRARIES
 * TOOLS-
 * LIBRARIES-
-! numpy
+<! numpy>
 ! pandas
 ! matplotlib
 ! plotpy
