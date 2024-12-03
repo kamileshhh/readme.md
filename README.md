@@ -1,5 +1,5 @@
 # PROJECT NAME
-Retail Discount Analysis
+RETAIL DISCOUNT AND ANALYSIS
 ## GROUP MEMBERS(NAME AND ROLL NUMBER)
 * Ziya Patel-KU2407U245
 * Kamil Gol-KU2407U096
@@ -8,8 +8,14 @@ Retail Discount Analysis
 * Shubham Padhiyar-KU2407U206
 ## OBJECTIVE OF THE PROJECT
 ## TOOLS AND LIBRARIES
-* Tools-
-* Libraries-numpy,pandas,matplotlib,plotpy,scikit learn,seaborn
+* TOOLS-
+* LIBRARIES-
+! numpy
+! pandas
+! matplotlib
+! plotpy
+! scikit learn
+! seaborn
 ## DATA SORUCE
 ## EXECUTION STEPS
 ## SUMMARY OF RESULTS
